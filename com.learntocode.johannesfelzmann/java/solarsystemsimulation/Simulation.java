@@ -13,7 +13,6 @@ public class Simulation {
     public static final double AU = 150e9;
 
     public static void main(String[] args) {
-        //TODO: add graphical Simulation
         int N = 10000;
         StdDraw.setCanvasSize(500, 500);
         StdDraw.setXscale(-2*AU, 2 * AU);
