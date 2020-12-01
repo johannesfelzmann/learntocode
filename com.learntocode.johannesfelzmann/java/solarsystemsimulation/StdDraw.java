@@ -1,4 +1,4 @@
-package java.solarsystemsimulation;
+package solarsystemsimulation;
 
 /******************************************************************************
  *  Compilation:  javac StdDraw.java

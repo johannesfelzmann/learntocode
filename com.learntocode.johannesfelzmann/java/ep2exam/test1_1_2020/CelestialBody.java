@@ -1,4 +1,4 @@
-package java.ep2exam.test1_1_2020;
+package ep2exam.test1_1_2020;
 
 // This class represents celestial bodies like stars, planets, asteroids, etc..
 public class CelestialBody {

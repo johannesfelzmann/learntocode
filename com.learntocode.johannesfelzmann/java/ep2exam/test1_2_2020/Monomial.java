@@ -1,4 +1,4 @@
-package java.ep2exam.test1_2_2020;
+package ep2exam.test1_2_2020;
 
 // This class represents monomials of the form a*x^d ("a mal x hoch d"), where
 // 'a' is the coefficient of the monomial and 'd' is the degree.

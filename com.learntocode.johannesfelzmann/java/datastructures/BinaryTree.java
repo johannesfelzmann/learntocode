@@ -1,6 +1,6 @@
-package java.datastructures;
+package datastructures;
 
-import java.datastructures.nodes.TreeANode;
+import datastructures.nodes.TreeANode;
 
 import java.util.Iterator;
 

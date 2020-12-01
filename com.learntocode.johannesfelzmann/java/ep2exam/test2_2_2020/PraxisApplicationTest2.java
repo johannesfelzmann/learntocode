@@ -1,4 +1,4 @@
-package java.ep2exam.test2_2_2020;
+package ep2exam.test2_2_2020;
 
 // This class can be modified and is for testing your solution.
 // Modifications will NOT be reviewed or assessed.

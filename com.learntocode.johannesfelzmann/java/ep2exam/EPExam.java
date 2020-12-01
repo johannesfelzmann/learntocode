@@ -1,4 +1,4 @@
-package java.ep2exam;
+package ep2exam;
 
 import java.io.*;
 

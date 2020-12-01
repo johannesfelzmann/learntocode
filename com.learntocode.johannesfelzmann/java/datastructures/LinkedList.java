@@ -1,6 +1,6 @@
-package java.datastructures;
+package datastructures;
 
-import java.datastructures.nodes.ListNode;
+import datastructures.nodes.ListNode;
 
 //created for preparation of EP2 exam @TU Wien 2020
 public class LinkedList {

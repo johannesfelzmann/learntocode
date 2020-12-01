@@ -1,4 +1,4 @@
-package java.ep2exam.test1_2_2020;
+package ep2exam.test1_2_2020;
 
 // A polynomial is a sum of multiple monomials , such as 3*x^1 + -1*x^2 + 1*x^5.
 // 'Polynomial' uses a sorted linked list to store its monomials.

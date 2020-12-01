@@ -1,4 +1,4 @@
-package java.ep2exam.test2_2_2020;
+package ep2exam.test2_2_2020;
 
 // A celestial object that can be orbited or in orbit of other objects.
 // Such a system has a recursive tree structure, i.e., it is composed of

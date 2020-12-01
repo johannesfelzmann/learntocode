@@ -1,4 +1,4 @@
-package java.datastructures.nodes;
+package datastructures.nodes;
 //created for preparation of EP2 exam @TU Wien 2020
 public class TreeANode {
 

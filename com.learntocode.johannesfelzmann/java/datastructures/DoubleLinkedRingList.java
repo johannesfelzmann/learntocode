@@ -1,6 +1,6 @@
-package java.datastructures;
+package datastructures;
 
-import java.datastructures.nodes.DoubleLinkedListNode;
+import datastructures.nodes.DoubleLinkedListNode;
 
 //created for preparation of EP2 exam @TU Wien 2020
 public class DoubleLinkedRingList {

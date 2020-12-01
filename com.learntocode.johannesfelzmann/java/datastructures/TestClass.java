@@ -1,4 +1,4 @@
-package java.datastructures;
+package datastructures;
 
 public class TestClass {
 

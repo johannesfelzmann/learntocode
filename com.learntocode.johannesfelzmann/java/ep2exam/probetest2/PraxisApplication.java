@@ -1,4 +1,4 @@
-package java.ep2exam.probetest2;
+package ep2exam.probetest2;
 
 // This class can be modified and is for testing your solution.
 // Modifications will NOT be reviewed or assessed.

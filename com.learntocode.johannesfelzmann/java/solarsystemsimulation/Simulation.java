@@ -1,4 +1,4 @@
-package java.solarsystemsimulation;
+package solarsystemsimulation;
 
 import javax.swing.*;
 import java.awt.*;

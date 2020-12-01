@@ -1,4 +1,4 @@
-package java.ep2exam.test2_2_2020;
+package ep2exam.test2_2_2020;
 
 import java.util.Iterator;
 

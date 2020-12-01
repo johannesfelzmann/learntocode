@@ -1,4 +1,4 @@
-package java.ep2exam.probetest1;
+package ep2exam.probetest1;
 
 // This class represents a polynomial. A polynomial is a sum of multiple monomials (class 'Monomial'),
 // such as 3*x^1 + -1*x^2 + 1*x^5.

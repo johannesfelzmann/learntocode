@@ -1,4 +1,4 @@
-package java.ep2exam.test2_2_2020;
+package ep2exam.test2_2_2020;
 
 // This class represents a single celestial body with no other objects in orbit.
 // A celestial body has a name and a mass in kilograms.

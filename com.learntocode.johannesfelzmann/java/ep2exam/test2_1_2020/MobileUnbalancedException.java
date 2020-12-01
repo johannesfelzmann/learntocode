@@ -1,4 +1,4 @@
-package java.ep2exam.test2_1_2020;
+package ep2exam.test2_1_2020;
 
 public class MobileUnbalancedException extends Exception {
 

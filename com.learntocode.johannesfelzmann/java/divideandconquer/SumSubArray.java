@@ -1,4 +1,4 @@
-package java.divideandconquer;
+package divideandconquer;
 
 //calculates highest subsum wich is possible in the given array
 

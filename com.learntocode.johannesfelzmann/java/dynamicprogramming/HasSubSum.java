@@ -1,4 +1,4 @@
-package java.dynamicprogramming;
+package dynamicprogramming;
 
 public class HasSubSum {
 

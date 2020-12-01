@@ -1,4 +1,4 @@
-package java.ep2exam.probetest3;
+package ep2exam.probetest3;
 
 import java.util.Iterator;
 import java.util.List;

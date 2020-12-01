@@ -1,4 +1,4 @@
-package java.ep2exam.probetest2;
+package ep2exam.probetest2;
 
 // This class represents a Player in a counting game. Every player has a name
 // and a unique number.

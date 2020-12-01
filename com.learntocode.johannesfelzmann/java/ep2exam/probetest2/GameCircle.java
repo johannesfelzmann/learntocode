@@ -1,4 +1,4 @@
-package java.ep2exam.probetest2;
+package ep2exam.probetest2;
 
 // This class represents players sitting in a circle in a counting game.
 // Objects of type 'Player' are stored in a ring list (all nodes have a successor node != null).

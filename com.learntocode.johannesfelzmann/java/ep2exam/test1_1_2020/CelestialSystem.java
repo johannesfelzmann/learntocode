@@ -1,4 +1,4 @@
-package java.ep2exam.test1_1_2020;
+package ep2exam.test1_1_2020;
 
 // A sorted linked list of celestial bodies. The list is ordered
 // lexicographically according to the names of the celestial bodies.

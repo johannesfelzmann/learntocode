@@ -1,4 +1,4 @@
-package java.ep2exam.probetest4;
+package ep2exam.probetest4;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
